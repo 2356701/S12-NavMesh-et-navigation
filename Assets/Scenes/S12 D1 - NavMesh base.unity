@@ -992,6 +992,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Visuel-Dummy_Base
       objectReference: {fileID: 0}
+    - target: {fileID: 3451118302482216456, guid: 39fae84663e116743bba3712562728ce,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
